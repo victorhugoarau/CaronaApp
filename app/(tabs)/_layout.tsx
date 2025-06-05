@@ -26,8 +26,6 @@ export default function Layout() {
                 }}
             />
             
-
-            
             <Tabs.Screen
                 name="Rotinas"
                 options={{
